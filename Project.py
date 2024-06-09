@@ -21,7 +21,7 @@ def send_email(to, content):
     email.set_content(content)
     return email
 
-email_adress=input('enter your email adress')
+email_adress=input('enter your email address')
 password=input('enter your password')
 
 
